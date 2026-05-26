@@ -175,7 +175,7 @@ export function TravelPlanner() {
         <div className="w-full max-w-md">
           <div className="mb-10">
             <p className="font-[family-name:var(--font-body)] text-sm uppercase tracking-widest text-muted-foreground mb-3">
-              Serenova
+              Pooop
             </p>
             <h1 className="font-sans text-4xl md:text-5xl font-light tracking-tight text-balance mb-4">
               Plan your wellness escape

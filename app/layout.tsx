@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Serenova | Wellness Travel Experiences',
+  title: 'Pooop | Wellness Travel Experiences',
   description: 'Discover transformative wellness retreats, spa escapes, and mindful travel experiences around the world. Book your journey to rejuvenation.',
   generator: 'v0.app',
   icons: {
